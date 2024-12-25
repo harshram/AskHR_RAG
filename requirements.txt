@@ -1,0 +1,8 @@
+boto3
+langchain
+flask-sqlalchemy
+pypdf
+faiss-cpu
+langchain_aws
+langchain-community
+streamlit
